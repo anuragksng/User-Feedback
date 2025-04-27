@@ -31,10 +31,7 @@ Before running this application locally, you need to have:
 
 ### 1. Clone the Repository
 
-```bash
-git clone <repository-url>
-cd UserFeedbackPortal
-```
+Download the Zip file
 
 ### 2. Install Dependencies
 
